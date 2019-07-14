@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://faisalt5:ff55tt@devconnector-vjz6b.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "eb6c68541b57b8e82c5d",
-    "githubSecret": "fe7b39de74604d5ee0889bb9e96175c25f3e4b6c"
-}
